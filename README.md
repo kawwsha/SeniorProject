@@ -37,7 +37,7 @@ Tweepy Docs: http://tweepy.readthedocs.io/en/v3.5.0/
 Get Watson Access
 
 ```
-A session key is needed for the Alchemny sentiment analysis API.
+A session key is needed for the alchemy sentiment analysis API.
 Watson Cloud Developer portal: https://www.ibm.com/watson/developercloud/
 ```
 
